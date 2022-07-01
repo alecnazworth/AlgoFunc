@@ -1,0 +1,9 @@
+README.md
+setup.py
+algolib/__init__.py
+algolib/search.py
+algolib/sorts.py
+algolib.egg-info/PKG-INFO
+algolib.egg-info/SOURCES.txt
+algolib.egg-info/dependency_links.txt
+algolib.egg-info/top_level.txt
