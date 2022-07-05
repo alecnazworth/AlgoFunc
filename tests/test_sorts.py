@@ -1,4 +1,4 @@
-from algolib.sorts import bitonic_sort, bubble_sort, bucket_sort, cocktail_sort, comb_sort, heap_sort, insertion_sort, \
+from algofunc.sorts import bitonic_sort, bubble_sort, bucket_sort, cocktail_sort, comb_sort, heap_sort, insertion_sort, \
     merge_sort, quick_sort, selection_sort, shell_sort, timsort
 
 

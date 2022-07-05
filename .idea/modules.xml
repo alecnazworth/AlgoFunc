@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AlgoLib.iml" filepath="$PROJECT_DIR$/.idea/AlgoLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AlgoLib-alecnazworth/.idea/AlgoLib-alecnazworth.iml" filepath="$PROJECT_DIR$/../AlgoLib-alecnazworth/.idea/AlgoLib-alecnazworth.iml" />
     </modules>
   </component>
 </project>

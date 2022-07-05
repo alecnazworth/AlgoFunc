@@ -1,4 +1,4 @@
-from algolib.search import binary_search, fibonacci_search, jump_search, linear_search, ternary_search
+from algofunc.search import binary_search, fibonacci_search, jump_search, linear_search, ternary_search
 
 
 # test binary search

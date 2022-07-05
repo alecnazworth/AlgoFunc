@@ -1,9 +1,9 @@
 from setuptools import find_packages, setup
 setup(
-    name='algolib',
-    packages=find_packages(include=['algolib']),
+    name='AlgoFunc',
+    packages=find_packages(include=['algofunc']),
     version='0.1.0',
-    description='A library of algorithms',
+    description='A library of algorithm functions for Python',
     author='Alec Nazworth',
     license='MIT',
     install_requires=[],
