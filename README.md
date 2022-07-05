@@ -1,5 +1,5 @@
 <h1>AlgoFunc</h1>
-This is a library written in Python, it uses function calls to perform sorting and searching algorithms. This makes using algorithms easier by having the library do all the legwork and by you simply calling the function and passing it an argument(array/list).
+This is a library I wrote in Python, it uses function calls to perform sorting and searching algorithms. This makes using algorithms easier by having the library do all the legwork and by you simply calling the function and passing it an argument(array/list).
 
 
 <h3>Instead of writing this:</h3>
